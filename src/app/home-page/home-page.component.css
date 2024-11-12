@@ -1,0 +1,17 @@
+/* src/app/home-page/home-page.component.css */
+.homepage-container {
+    text-align: center;
+    padding: 50px;
+  }
+  .homepage-image {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 20px auto;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
