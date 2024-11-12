@@ -1,0 +1,35 @@
+/* assign-course.component.css */
+.assign-course-form {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .assign-course-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .assign-course-form label {
+    font-weight: bold;
+  }
+  
+  .assign-course-form select {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .assign-course-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .assign-course-form button:hover {
+    background-color: #0056b3;
+  }
+  

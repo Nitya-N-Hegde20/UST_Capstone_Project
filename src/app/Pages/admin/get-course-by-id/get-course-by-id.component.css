@@ -1,0 +1,13 @@
+.form-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
